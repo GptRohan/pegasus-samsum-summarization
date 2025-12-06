@@ -1,0 +1,9 @@
+transformers
+datasets
+sentencepiece
+accelerate
+evaluate
+sacrebleu
+rouge_score
+py7zr
+torch
